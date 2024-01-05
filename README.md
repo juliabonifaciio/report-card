@@ -4,7 +4,7 @@
 This project serves as a basic introduction to "form," utilizing Java Interfaces.
 
 ### Description
-Projeto Java que calcula o percentual de faltas e compara com a nota, exibindo a situação final do aluno em questão.
+Java project that calculates the percentage of absences and compares it with the grade, displaying the final situation of the student in question.
 
 ## How to View
 To use, ensure you have `Apache NetBeans` and `Java` installed on your system. Once installed, download the project files.
@@ -17,6 +17,13 @@ To use, ensure you have `Apache NetBeans` and `Java` installed on your system. O
 ## Technologies Used
 - `Java`
 - `Git and Github`
+
+### File Structure
+- SitAluno_OO_UI
+- Source Packages
+- default package
+- Aluno.java
+- SitAlunoForm.java
 
 ## Usage
 After opening the project in NetBeans, access the `CalculadoraForm.java` file to begin utilizing the calculator.
