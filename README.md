@@ -1,41 +1,31 @@
-# Boletim
+# Report Card
 
+## Overview
+This project serves as a basic introduction to "form," utilizing Java Interfaces.
+
+### Description
 Projeto Java que calcula o percentual de faltas e compara com a nota, exibindo a situação final do aluno em questão.
 
-![Boletim](.github/preview.png)
+## How to View
+To use, ensure you have `Apache NetBeans` and `Java` installed on your system. Once installed, download the project files.
 
-## :thought_balloon: Visão Geral
+### Setup Process
+1. Install `Apache NetBeans` and `Java`.
+2. Download the project files.
+3. Open the project within NetBeans by selecting `Open Project`.
 
-Projeto simples utilizando Java para calcular a situação final de um aluno em determinada matéria.
+## Technologies Used
+- `Java`
+- `Git and Github`
 
-## :rocket: Tecnologias Utilizadas
+## Usage
+After opening the project in NetBeans, access the `CalculadoraForm.java` file to begin utilizing the calculator.
 
-- Java
-- Git e Github
+## License
+This project is licensed under the MIT License.
 
-## :speech_balloon: Instruções de Instalação
+## Contributions
+Contributions are always welcome! Feel free to submit improvements or corrections.
 
-Instale o `Apache NetBeans` e o `Java` em seu computador. Com isso, faça o download do arquivo.
-
-## :grey_question: Como Usar
-
-Após a instalação e configuração, vá em `Open Project` dentro do NetBeans e abra o aequivo instalado.
-
-## :grey_exclamation: Estrutura de Arquivos
-├── SitAluno_OO_UI
-
-├── Source Packages
-
-├── default package
-
-└── Aluno.java
-
-└── SitAlunoForm.java
-
-## :love_letter: Contribuição
-
-Contribuições são sempre bem-vindas!
-
-## :v: Créditos
-
-Feito com muito ♥ by Julia Faria :wave:
+## Credits
+Developed with passion by Julia Faria.
