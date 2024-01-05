@@ -26,7 +26,7 @@ To use, ensure you have `Apache NetBeans` and `Java` installed on your system. O
 - SitAlunoForm.java
 
 ## Usage
-After opening the project in NetBeans, access the `CalculadoraForm.java` file to begin utilizing the calculator.
+After opening the project in NetBeans, access the `SitAlunoForm.java` file to begin utilizing.
 
 ## License
 This project is licensed under the MIT License.
